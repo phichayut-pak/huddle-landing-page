@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  background-image: url(./images/bg-hero-desktop.svg);
+  background-color: #EDFAFF;
+}
+
+@media only screen and (max-width: 375px){
+  body {
+    background-image: url('./images/bg-hero-mobile.svg')
+  }
+}
