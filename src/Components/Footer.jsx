@@ -34,7 +34,7 @@ const Footer = () => {
           viewport={{ once: true }}
 
         >
-          <div className="mt-36 desktop:mt-0 ml-5" id="logo">
+          <div className="mt-40 desktop:mt-0 ml-5" id="logo">
           <svg
             width="240"
             height="39"
