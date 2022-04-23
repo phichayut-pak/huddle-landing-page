@@ -48,8 +48,8 @@ const App = () => {
         <LandingPage />
         <CardPage blogs={blogs} />
         <Footer />
-        
       </NavigationBar>
+
     </div>
   );
 }
