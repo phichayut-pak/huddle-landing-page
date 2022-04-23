@@ -17,7 +17,7 @@ const LandingPage = ({ className }) => {
         }}
         viewport={{once: true}}
         id="title" 
-        className="font-poppins font-semibold text-center text-[1.7rem] desktop:text-left desktop:ml-32 desktop:text-5xl animate__animated animate_fadeInRight">
+        className="font-poppins font-semibold text-center text-[1.7rem] desktop:text-left desktop:ml-32 desktop:text-5xl">
           Build The Community
           <br />
           Your Fans Will Love
