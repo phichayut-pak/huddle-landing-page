@@ -1,7 +1,7 @@
 
 # Huddle Landing Page
 
-![huddle-landing-page]([https://media.discordapp.net/attachments/488216247603953696/1275001314438418558/Screen_Shot_2567-08-19_at_14.59.53.png?ex=66c44d01&is=66c2fb81&hm=79e87cfcdd8ece145bb4e2432fa91df7e209d7cc79c9a6a99fc8919471bdc0f2&=&format=webp&quality=lossless&width=1100&height=602](https://i.ibb.co/CwqB0J6/Screen-Shot-2567-08-28-at-01-10-25.png))
+![huddle-landing-page](https://i.ibb.co/CwqB0J6/Screen-Shot-2567-08-28-at-01-10-25.png)
 
 
 
